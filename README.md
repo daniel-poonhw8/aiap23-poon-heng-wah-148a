@@ -1,8 +1,8 @@
 # ML Pipeline for Online Shopping Dataset
 
 ## Author Information
-- **Full Name (as in NRIC):** [Your Full Name]
-- **Email Address:** [Your Email Address]
+- Poon Heng Wah
+- poonhwsing@yahoo.com.sg
 
 ## Overview of Submitted Folder
 This submission contains a machine learning pipeline for analyzing the online shopping dataset. The folder structure is as follows:
